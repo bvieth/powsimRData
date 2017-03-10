@@ -1,0 +1,17 @@
+Package: powsimData
+Type: Package
+Title: Power Simulation Data
+Description: This package is a companion data repository for powsim. It contains raw read count tables of
+           several single cell RNA-seq experiments as well as precalculated negative binomial parameter
+           estimates.
+Version: 0.99.0
+Imports:
+Depends: R (>= 3.3)
+Suggests: BiocStyle, knitr
+LazyData: true
+License: GPL
+NeedsCompilation: no
+Author: Beate Vieth
+Date: 2017-03-09
+Maintainer: Beate Vieth <vieth@bio.lmu.de>
+URL: https://github.com/bvieth
