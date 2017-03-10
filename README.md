@@ -3,7 +3,7 @@
 powsim\_RData
 =============
 
-This repository contains count matrices of published RNA-seq experiments (xx\_cnts.rda) and estimated negative binomial parameters as exemplaric input to powsim (xx\_estparam.rda).
+This repository contains count matrices of published RNA-seq experiments (xx\_cnts.rda) and estimated negative binomial parameters as exemplaric input to powsim (xx\_estparam.rda). For the Kolodziejczk data set we also included simulation results.
 
 RNA-seq experiments
 ===================

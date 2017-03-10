@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 ```
 
 # powsim_RData
-This repository contains count matrices of published RNA-seq experiments (xx_cnts.rda) and estimated negative binomial parameters as exemplaric input to powsim (xx_estparam.rda).
+This repository contains count matrices of published RNA-seq experiments (xx_cnts.rda) and estimated negative binomial parameters as exemplaric input to powsim (xx_estparam.rda). For the Kolodziejczk data set we also included simulation results.
 
 # RNA-seq experiments
 
@@ -26,7 +26,6 @@ The 48 mouse embryonic stem cells were prepared with the STRT-seq protocol.
 ## Islam et al. 2014 [GSE46980](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE46980)
 
 The 96 mouse embryonic stem cells were prepared with the improved STRT-seq protocol, i.e. including unique molecular identifiers (UMI).
-
 
 ## Buettner et al. 2014 [E-MTAB-2805](http://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2805/)
 
